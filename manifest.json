@@ -1,11 +1,11 @@
 {
     "name": "BreadmilkSounds",
-    "version_number": "1.0.0",
-    "website_url": "",
+    "version_number": "1.0.1",
+    "website_url": "https://github.com/sirplagueis/BreadmilkSounds",
     "description": "Lots of random sounds throughout the game have been changed.",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100",
-        "no00ob-LCSoundTool-1.2.2",
-        "Clementinise-CustomSounds-1.2.1"
+        "no00ob-LCSoundTool-1.5.1",
+        "Clementinise-CustomSounds-2.3.2"
     ]
 }
