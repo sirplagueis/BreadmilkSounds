@@ -1,6 +1,6 @@
 {
     "name": "BreadmilkSounds",
-    "version_number": "1.0.1",
+    "version_number": "1.0.3",
     "website_url": "https://github.com/sirplagueis/BreadmilkSounds",
     "description": "Lots of random sounds throughout the game have been changed.",
     "dependencies": [
